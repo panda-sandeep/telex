@@ -24,7 +24,7 @@ wrangler publish
 
 ## Live Demo
 
-The product is live at https://telex.blog.
+The product is live at https://telex.blog
 
 ## Discuss
 

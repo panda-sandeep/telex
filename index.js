@@ -4,10 +4,6 @@ const renderArticle = require('./html/post');
 const shortid = require('shortid');
 const sanitizeHtml = require('sanitize-html');
 
-/**
- * Example of how router can be used in an application
- *  
- */
 addEventListener('fetch', event => {
     event.respondWith(handleRequest(event.request))
 });
