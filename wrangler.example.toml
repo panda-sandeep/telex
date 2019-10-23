@@ -1,0 +1,10 @@
+account_id = ""
+name = "telex"
+type = "webpack"
+workers_dev = true
+# route = "telex.blog/*"
+# zone_id = ""
+
+[[kv-namespaces]]
+binding = "articles"
+id = ""
